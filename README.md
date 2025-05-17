@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InJamie
-- 👀 I’m interested in Xian
+- 👀 I’m live in Xian
 - 🌱 I’m currently learning Vue
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me injamie@163.com
